@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "Installing..."
-echo "Installed !"
+echo "Installing..." > log.txt
+echo "Installed !" > log.txt
